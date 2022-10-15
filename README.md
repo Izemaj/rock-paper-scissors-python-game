@@ -1,1 +1,1 @@
-# Rock Paper Scissors Game
+# Your First Python Game: Rock, Paper, Scissors
