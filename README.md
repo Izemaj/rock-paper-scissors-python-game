@@ -1,1 +1,1 @@
-# rock-paper-scissors-python-game
+# Rock Paper Scissors Game
